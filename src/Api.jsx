@@ -17,7 +17,7 @@ const Api = () => {
     }
     return(
         <div>
-            <h1>Prueba API</h1>
+            <h1>Prueba API .net core</h1>
                     <div>
                         <table border="1">
                             <thead> 
